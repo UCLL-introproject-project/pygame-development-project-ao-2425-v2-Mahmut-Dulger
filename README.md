@@ -1,2 +1,1 @@
-README
-im not done yet
+Finished
