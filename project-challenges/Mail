@@ -1,0 +1,31 @@
+Dear Ms. Verdeyen,
+
+
+
+I hope you’re doing well.
+
+
+
+I am currently working on my Pygame project for the OPO Introductie Project and have recently extended my blackjack program by implementing a splitting function. This feature allows players to split their hand when they receive two cards of the same value, creating two independent hands. While the function appears to work correctly, I am unsure whether it has been implemented efficiently. Although I haven’t encountered any bugs, I suspect there may be edge cases I have overlooked.
+
+
+
+Additionally, I would appreciate your input on whether this extension is enough to meet the assignment requirements or if I should implement additional features. As I continue improving my Python skills, I’m open to further enhancing the project if needed. Although based on the assignment requirements, I believe this extension meets the expectations.
+
+You can find my project on GitHub, with the relevant program named Blackjack.py:
+
+https://github.com/UCLL-introproject-project/pygame-development-project-ao-2425-v2-Mahmut-Dulger
+
+
+
+I would greatly appreciate your feedback, particularly on the efficiency of my implementation and any potential edge cases I may have missed.
+
+
+
+Thank you for your time and assistance. I look forward to your insights.
+
+
+
+Best regards,
+Mahmut Dulger
+Student number: r0835544
